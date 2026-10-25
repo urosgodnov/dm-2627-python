@@ -12,7 +12,7 @@
 
 # 🐍 From clicks to code
 
-**Data Mining 2026/27 · Python track** — University of Ljubljana, School of Economics and Business (UL SEB) · prof. dr. Uroš Godnov
+**Data Mining 2026/27 · Python track** — University of Ljubljana, School of Economics and Business (UL SEB) · doc. dr. Uroš Godnov
 
 In sessions 1–9 you built models by connecting operators in AI Studio. In sessions 10–14 you do the same — and more — **in Python**, the language data scientists use every day. Same ideas, new superpowers: any data from the web, full control over every step, and results anyone can reproduce with one click.
 
